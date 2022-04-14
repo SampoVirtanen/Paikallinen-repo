@@ -1,3 +1,4 @@
 yksi tekstirivi.
 jälleen uusi tekstirivi.
 uusi tekstirivi.
+tiedostoon uusi rivi.
